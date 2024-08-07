@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GoshenJimenez.PrelimActivity1.props" />
+</Project>

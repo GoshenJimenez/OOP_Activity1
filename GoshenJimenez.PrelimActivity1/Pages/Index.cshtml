@@ -1,0 +1,28 @@
+﻿@page
+@model Index
+@{
+   
+}
+
+<div class="text-center">
+    @{
+        if(Model.DataResult != null)
+        {
+            <h1 class="display-4">@Model!.DataResult!.Name</h1>
+            <h2>@Model!.DataResult!.Count</h2>
+
+            foreach(var country in Model.DataResult.Countries)
+            {
+                <p>
+                    <strong>@country.CountryId</strong> <span>@country.Probability</span>
+                </p>
+            }
+
+        }
+        else
+        {
+            <h2>No data</h2>
+        }
+    }
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

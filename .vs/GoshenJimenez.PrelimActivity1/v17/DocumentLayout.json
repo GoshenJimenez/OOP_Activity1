@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Goshen\\source\\repos\\GoshenJimenez.PrelimActivity1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBD62E5-3F68-413E-89D0-76B22860AC54}|GoshenJimenez.PrelimActivity1\\GoshenJimenez.PrelimActivity1.csproj|c:\\users\\goshen\\source\\repos\\goshenjimenez.prelimactivity1\\goshenjimenez.prelimactivity1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBD62E5-3F68-413E-89D0-76B22860AC54}|GoshenJimenez.PrelimActivity1\\GoshenJimenez.PrelimActivity1.csproj|solutionrelative:goshenjimenez.prelimactivity1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBD62E5-3F68-413E-89D0-76B22860AC54}|GoshenJimenez.PrelimActivity1\\GoshenJimenez.PrelimActivity1.csproj|c:\\users\\goshen\\source\\repos\\goshenjimenez.prelimactivity1\\goshenjimenez.prelimactivity1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBD62E5-3F68-413E-89D0-76B22860AC54}|GoshenJimenez.PrelimActivity1\\GoshenJimenez.PrelimActivity1.csproj|solutionrelative:goshenjimenez.prelimactivity1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Goshen\\source\\repos\\GoshenJimenez.PrelimActivity1\\GoshenJimenez.PrelimActivity1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "GoshenJimenez.PrelimActivity1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Goshen\\source\\repos\\GoshenJimenez.PrelimActivity1\\GoshenJimenez.PrelimActivity1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "GoshenJimenez.PrelimActivity1\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T08:47:26.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Goshen\\source\\repos\\GoshenJimenez.PrelimActivity1\\GoshenJimenez.PrelimActivity1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "GoshenJimenez.PrelimActivity1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Goshen\\source\\repos\\GoshenJimenez.PrelimActivity1\\GoshenJimenez.PrelimActivity1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "GoshenJimenez.PrelimActivity1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:47:33.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
